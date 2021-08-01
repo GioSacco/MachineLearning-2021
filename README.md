@@ -25,6 +25,6 @@
 
 ## Risultati ottenuti
 
-- Valutata infine la rete su test set l'accuracy ottenuta è del 0.9924.
+- Valutata la rete su test set l'accuracy ottenuta è del 0.9924.
 
 - Ho creato infine un secondo file 'customTest.m' tramite il quale è possile sottomettere immagini selezionate manulamente dalla memoria del calcolatore.
